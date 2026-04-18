@@ -1,12 +1,12 @@
 const siteData = {
     profile: {
-        name: "Your Name",
+        name: "thechat",
         role: "Creative Developer and Project Creator",
         bio: "I build practical and creative projects, and this website is where people can learn about me, explore my work, and download selected files directly from Google Drive.",
         summary: "I create digital work and practical project files that can be shared easily with clients, collaborators, students, or customers.",
-        email: "you@example.com",
-        phone: "+256700000000",
-        phoneLabel: "+256 700 000000",
+        email: "angellkisomse@gmail.com",
+        phone: "+256756129196",
+        phoneLabel: "+256 765 121 996",
         location: "Kampala, Uganda"
     },
     projects: [
